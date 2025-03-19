@@ -1,16 +1,15 @@
 h1{
-  color:white;
-  background-color:black
+  color:dimgray;
   text-align:center;
 }
 
 h3{
-  color:blue;
+  color:deepskyblue;
   text-align:center;  
 }
 
 p{
-  color:green;
+  color:forestgreen;
   text-align:center;
 }
 
@@ -19,5 +18,10 @@ ul{
 }
 
 li{
+  text-align:center;
+}
+
+a{
+  color:teal;
   text-align:center;
 }
